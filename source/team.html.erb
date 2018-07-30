@@ -1,0 +1,13 @@
+---
+title: Le Wagon - Team
+---
+
+<h1>Team</h1>
+<ul class="list-inline text-center">
+  <% ["clara.jpeg", "jan.jpg"].each do |img_name| %>
+    <li>
+      <%= image_tag img_name, class: "img-circle avatar-size" %>
+      <h3><%= img_name.capitalize.split(".").first %></h3>
+    </li>
+  <% end %>
+</ul>

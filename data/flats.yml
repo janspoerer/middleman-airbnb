@@ -1,0 +1,29 @@
+clara:
+  name: "Clara's name"
+  description: "Clara's description"
+  city_name: "Clara's city"
+  city_slug: "claracity"
+  wifi: false
+  rating: 4
+  owner_picture: "clara.jpeg"
+  picture_url: "clara_house.png"
+
+jan:
+  name: "Jan's home"
+  description: "Best flat"
+  city_name: "Jan's city"
+  city_slug: "jancity"
+  wifi: true
+  rating: 3
+  owner_picture: "jan.jpg"
+  picture_url: "jan_house.jpg"
+
+felix:
+  name: "Felix's home"
+  description: "Felix's flat"
+  city_name: "Felix's city"
+  city_slug: "Felixcity"
+  wifi: true
+  rating: 5
+  owner_picture: "felix.jpg"
+  picture_url: "felix_house.png"
